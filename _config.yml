@@ -10,24 +10,24 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                    : "minimal-mistakes-jekyll"
-remote_theme             : "mistakes/minimal-mistakes"
+# theme                    : "minimal-mistakes-jekyll"
+# remote_theme             : "mistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Bosscat Blog"
+rtl                      : false
+title                    : "CatLinguist Blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Bosscat"
-description              : "An amazing website."
+subtitle                 : "MEOW MEOW MEOW."
+name                     : "CatLinguist"
+description              : "MEOW MEOW MEOW."
 url                      : "https://catlinguist.github.io"
-baseurl                  : ""
+baseurl                  : " "
 repository               : "catlinguist/catlinguist.github.io"
 teaser                   : "/assets/images/profile.jpg"
 logo                     : "/assets/images/profile.jpg"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : " COOL "
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
