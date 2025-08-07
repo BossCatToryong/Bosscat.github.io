@@ -22,9 +22,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Bosscat"
 description              : "An amazing website."
-url                      : "https://bosscat.github.io"
+url                      : "https://catlinguist.github.io"
 baseurl                  : ""
-repository               : "BossCatToryong/Bosscat.github.io"
+repository               : "catlinguist/catlinguist.github.io"
 teaser                   : "/assets/images/profile.jpg"
 logo                     : "/assets/images/profile.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
