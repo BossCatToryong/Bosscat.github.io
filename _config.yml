@@ -23,7 +23,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Bosscat"
 description              : "An amazing website."
 url                      : "https://bosscat.github.io"
-baseurl                  : "/blog"
+baseurl                  : ""
 repository               : "BossCatToryong/Bosscat.github.io"
 teaser                   : "/assets/images/profile.jpg"
 logo                     : "/assets/images/profile.jpg"
